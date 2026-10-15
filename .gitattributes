@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Discovery-API/* linguist-generated
+Discovery-DNS/* linguist-generated
+Discovery-Web-Content/* linguist-generated
+Passwords/* linguist-generated
+Usernames/* linguist-generated
+*.txt linguist-generated
